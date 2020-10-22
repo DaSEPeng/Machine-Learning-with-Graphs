@@ -1,6 +1,7 @@
 ## GRAPH-BERT: Only Attention is Needed for Learning Graph Representations
-
+<center>
 <img src="GraphBert.PNG" height="70%" width="70%" />
+</center>
 <br>
 SUMMARY:
 - 提出了一个模型:
