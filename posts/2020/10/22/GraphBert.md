@@ -1,9 +1,8 @@
 ## GRAPH-BERT: Only Attention is Needed for Learning Graph Representations
-SUMMARY:
+
 <img src="GraphBert.PNG" height="70%" width="70%" />
 <br>
-<br>
-
+SUMMARY:
 - 提出了一个模型:
   - batch选择：基于PageRank的相似度
   - 特征嵌入：原始特征信息、全局结构信息、局部位置信息、局部结构信息
@@ -18,5 +17,5 @@ SUMMARY:
   - 预训练：结点特征恢复、图结构恢复；
   - 精调：结点分类、图聚类；
   
-  
-  ANNOTATED PAPER: [PDF](GraphBERT.pdf)
+<br> 
+ANNOTATED PAPER: [PDF](GraphBERT.pdf)
