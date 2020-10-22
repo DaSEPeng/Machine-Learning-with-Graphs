@@ -1,4 +1,8 @@
 ## Understanding Graph Neural Networks via Trajectory Analysis
+<center>
+<img src="TrajectoryAnalysis.PNG" height="70%" width="70%" />
+</center>
+<br>
 SUMMARY：
 - 总结了GNN的两种drawback：表达能力差，由于过平滑问题难以deep；
 - 通过求导分析参数变化对结点表示的影响得出了几点结论：
