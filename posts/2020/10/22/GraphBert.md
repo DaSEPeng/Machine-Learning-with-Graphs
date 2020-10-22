@@ -17,6 +17,5 @@ SUMMARY:
   - 直接接下游任务；
   - 预训练：结点特征恢复、图结构恢复；
   - 精调：结点分类、图聚类；
-  
-<br> 
+
 ANNOTATED PAPER: [PDF](GraphBERT.pdf)
