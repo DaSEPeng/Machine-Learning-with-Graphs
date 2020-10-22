@@ -1,2 +1,1 @@
-# Machine-Learning-with-Graphs
-Repo for the CS224W Course @ Stanford
+Repo for the CS224W Course @ Stanford and beyond.
