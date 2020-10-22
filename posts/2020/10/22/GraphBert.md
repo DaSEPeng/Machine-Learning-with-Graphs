@@ -1,6 +1,8 @@
 ## GRAPH-BERT: Only Attention is Needed for Learning Graph Representations
 SUMMARY:
 <img src="GraphBert.PNG" height="70%" width="70%" />
+<br>
+<br>
 
 - 提出了一个模型:
   - batch选择：基于PageRank的相似度
